@@ -6,7 +6,7 @@
 	"main": "censortext",
 	"repository": {
 		"type": "git",
-		"url" : "https://github.com/adkboiadok/Lucky-Venus/tree/master/censorify"
+		"url" : "https://github.com/adkboiadok/Lucky-Venus/tree/master/censorify.git"
 	},
 	"keywords": ["censor","words"],
 	"dependencies": {},
