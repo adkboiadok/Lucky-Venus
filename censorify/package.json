@@ -1,16 +1,16 @@
 {
-	"author": "Alex De Keyser",
-	"name": "censorify-boiadok",
-	"version": "0.1.1",
-	"description": "Censor words out of text",
-	"main": "censortext",
-	"repository": {
-		"type": "git",
-		"url" : "https://github.com/adkboiadok/Lucky-Venus/tree/master/censorify.git"
-	},
-	"keywords": ["censor","words"],
-	"dependencies": {},
-	"engines": {
-		"node":"*"
-		}
+    "name": "censorify-boiadok",
+    "version": "0.1.2",
+    "author": "boiadok",
+    "description": "Censors words out of text",
+    "main": "censortext.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/adkboiadok/Lucky-Venus/tree/master/censorify.git"
+    },
+    "keywords": ["censor","words"],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
 }
