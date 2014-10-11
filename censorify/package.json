@@ -1,13 +1,15 @@
 {
-	"author": "André Sacharias",
-	"name": "censorify",
+	"author": "Alex De Keyser",
+	"name": "censorify-boiadok",
 	"version": "0.1.1",
 	"description": "Censor words out of text",
 	"main": "censortext",
-	"repository": {},
+	"repository": {
+		"type": "git",
+		"url" : "https://github.com/adkboiadok/Lucky-Venus/tree/master/censorify"
+	},
 	"keywords": ["censor","words"],
 	"dependencies": {},
-	
 	"engines": {
 		"node":"*"
 		}
